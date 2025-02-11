@@ -1,4 +1,3 @@
-# Creación del archivo README.md con el contenido proporcionado.
 
 # Lab 3 - Tic-Tac-Toe Plus
 
