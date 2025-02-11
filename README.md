@@ -23,11 +23,10 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu sistema. Puedes desca
    cd Tic-Tac-Toe-Plus
 Instala las dependencias:
 
-Copiar
 npm install
 
 npm start
-Esto iniciará la aplicación en http://localhost:3000.
+
 
 Vista previa en vivo en CodeSandbox
 Puedes ver la versión en vivo de la aplicación en CodeSandbox:(https://5djtrf.csb.app/)
